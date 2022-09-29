@@ -1,3 +1,3 @@
 # WebApps-Assignment-5 Starter Code
 
-Hosted at (https://44-563-web-apps-f22.github.io/44563-webapps-assignment-5-Raja-shree)[https://44-563-web-apps-f22.github.io/44563-webapps-assignment-5-Raja-shree]
+Hosted at [Link to Repo](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-5-Raja-shree/)
